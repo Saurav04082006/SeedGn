@@ -22,7 +22,7 @@ Mnemonic seed phrase generator for multiple networks including Btc, Eth, Sol, an
 To get started with SeedGn, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/SeedGn.git
+   git clone https://github.com/saurav04082006/SeedGn.git
    ```
 2. Navigate into the project directory:
    ```bash
